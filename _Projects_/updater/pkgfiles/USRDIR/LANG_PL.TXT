@@ -1,4 +1,4 @@
-﻿STR_TRADBY			[<br/>|Tłumaczenie - mpq1671 | Oparte na pracy użytkownika Raskolnikow<br/></a><br/>]
+﻿STR_TRADBY			
 
 STR_FILES				[Pliki]
 STR_GAMES				[Gry]
@@ -84,10 +84,10 @@ STR_SETTINGSUPD		[Ustawienia zapisane.<br><br>Kliknij <a href=/restart.ps3>tutaj
 STR_ERROR					[Błąd!]
 
 STR_MYGAMES				[Moje Gry]
-STR_LOADGAMES			[Ładuj gry webMANem]
+STR_LOADGAMES			[Załaduj grę]
 STR_FIXING		[Patchowanie]
 
-STR_WMSETUP				[Funkcje webMANa]
+STR_WMSETUP				[Funkcje]
 STR_WMSETUP2			[]
 
 STR_EJECTDISC			[Wysuń Dysk]
@@ -104,14 +104,14 @@ STR_RMVWMCFG			[Trwa restartowanie webMANa...]
 STR_RMVWMCFGOK		[Gotowe! Restart za 3 sekundy]
 
 STR_PS3FORMAT		[Gry w formacie PS3]
-STR_PS2FORMAT		[Gry w formacie PS2]
+STR_PS2FORMAT		[Gry w formacie PS2]         
 STR_PS1FORMAT		[Gry w formacie PSOne]
-STR_PSPFORMAT		[Gry w formacie PSP™]
+STR_PSPFORMAT		[Gry w formacie PSP™]		
 
 STR_VIDFORMAT		[Blu-ray™ i DVD]
 STR_VIDEO				[Zawartość wideo]
 
-STR_LAUNCHPSP		[Uruchom PSP ISO za pomocą webMANa lub mmCM]
+STR_LAUNCHPSP		[Uruchom PSP ISO/CSO]
 STR_LAUNCHPS2		[Uruchom PS2 Classic]
 
 STR_GAMEUM			[Gra odmontowana]
